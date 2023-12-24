@@ -1,4 +1,4 @@
 
 
 def func():
-    pass
+    return "a"
